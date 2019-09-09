@@ -1,0 +1,19 @@
+{
+  "name": "conventional-commit-types-blacklake",
+  "version": "1.0.0",
+  "description": "List of blacklake conventional commit types.",
+  "main": "index.json",
+  "scripts": {
+    "test": "json -f index.json"
+  },
+  "keywords": [],
+  "author": "baozefeng",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AshoneA/conventional-commit-types-blacklake.git"
+  },
+  "devDependencies": {
+    "json": "^9.0.4"
+  }
+}
